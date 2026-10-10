@@ -8,13 +8,13 @@
   "changelog": "",
   "conflicts": [],
   "delisted": false,
-  "description": "新增两艘特别版掠夺舰：炽天使级（地狱天使级T2，激光4+导弹4，黑隐跳跃/隐身）与扶摇级（鹏鲲级T2，混合4+射弹4，黑隐跳跃/隐身）。加成链与角色文案全部复用帕拉丁/魔像/克洛诺斯/恶狼原版实现。服务端内存注入不改任何文件；客户端 a5 补丁见 client-patch/（需先安装并重启）。",
+  "description": "新增两艘特别版掠夺舰：炽天使级与扶摇级 需安装前置mod解锁槽位上限",
   "displayName": "特别版掠夺舰双舰（炽天使级 / 扶摇级）",
   "downloadUrls": [
     {
       "mirror": "github",
       "priority": 1,
-      "url": "https://github.com/Jasper377/evejs-mod-evejs-acspecialbattleship/releases/download/v1.3.2/evejs-acspecialbattleship-1.3.2.zip"
+      "url": "https://github.com/Jasper377/evejs-mod-evejs-acspecialbattleship/releases/download/v1.3.3/evejs-acspecialbattleship-1.3.3.zip"
     }
   ],
   "evejsVersions": [
@@ -24,7 +24,7 @@
   "highlights": [],
   "history": [],
   "id": "evejs-acspecialbattleship",
-  "publishedAt": "2026-10-09",
+  "publishedAt": "2026-10-10",
   "readme": [
     "新增两艘**特别版掠夺舰**",
     "| 船 | typeID | 原型 | 武器 | 特色 |\n|---|---|---|---|---|\n| **炽天使级 Seraph** | 340010 | 地狱天使级 Abaddon | 激光 4 + 导弹 4 | 堡垒 + 黑隐跳跃(4ly 氦) + 隐型装置 + 黑隐诱导 |\n| **扶摇级 Fuyao** | 340011 | 鹏鲲级 Raven | 混合 4 + 射弹 4 | 同上（跳跃燃料氮同位素） |",
@@ -32,8 +32,8 @@
   ],
   "repo": "https://github.com/Jasper377/evejs-mod-evejs-acspecialbattleship",
   "requiresRestart": true,
-  "sha256": "4c600c5171cddb50d7d0c7efd2aee48c54e8ea05d53de9f583503e83a3376f86",
-  "sizeBytes": 84009,
+  "sha256": "40e719784118626fe3e7c6f16e90dd9b88a6b209dfb79d6cbd8cbfaeddc028aa",
+  "sizeBytes": 84995,
   "tags": [],
-  "version": "1.3.2"
+  "version": "1.3.3"
 }
