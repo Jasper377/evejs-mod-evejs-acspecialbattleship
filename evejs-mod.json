@@ -5,7 +5,7 @@
     "name": "正在北极拔草"
   },
   "category": "玩法",
-  "changelog": "修复了没有导入狄瓦娜数据时缺失供体导致安装失败的问题",
+  "changelog": "修复安装失败直接跳过的问题",
   "conflicts": [],
   "delisted": false,
   "description": "新增两艘特别版掠夺舰：炽天使级与扶摇级。登录后自动安装客户端补丁（首次进游戏即完成），需前置mod解锁槽位上限",
@@ -30,7 +30,7 @@
   ],
   "repo": "https://github.com/Jasper377/evejs-mod-evejs-acspecialbattleship",
   "requiresRestart": true,
-  "sha256": "5771dcf942edf6fdaba4ae28ff6faed9fa535a91cb847181c5a62e7cf887e42d",
+  "sha256": "e49354712115b1068eda0b5eb404b0656d19836afaf593a4f85a5124bf979a78",
   "sizeBytes": 1561467,
   "tags": [],
   "version": "1.5.3"
