@@ -5,7 +5,7 @@
     "name": "正在北极拔草"
   },
   "category": "玩法",
-  "changelog": "客户端补丁全自动安装：登录后自动完成，无需手动运行脚本",
+  "changelog": "修复拓展槽位服务端不认的BUG",
   "conflicts": [],
   "delisted": false,
   "description": "新增两艘特别版掠夺舰：炽天使级与扶摇级。登录后自动安装客户端补丁（首次进游戏即完成），需前置mod解锁槽位上限",
@@ -26,13 +26,12 @@
   "id": "evejs-acspecialbattleship",
   "publishedAt": "2026-10-10",
   "readme": [
-    "新增两艘**特别版掠夺舰**（属于额外新增物品，不改任何原版船）\n| **炽天使级 Seraph** | 340010 | 地狱天使级T2 | 激光4+导弹4，堡垒+黑隐跳跃/隐身 |\n| **扶摇级 Fuyao** | 340011 | 鹏鲲级T2 | 混合4+射弹4，堡垒+黑隐跳跃/隐身 |",
-    "加成链与特性面板文案**全部复用原版**（帕拉丁/魔像/克洛诺斯/恶狼/救世的现役效果与 nameID），不改任何原版船。"
+    "新增两艘**特别版掠夺舰**ID340010/340011（属于额外新增物品，不改任何原版船）\n可从购买市场-特别版舰船-特别版掠夺舰分类中购买\n客户端补丁全自动安装：登录后自动完成，无需手动运行脚本"
   ],
   "repo": "https://github.com/Jasper377/evejs-mod-evejs-acspecialbattleship",
   "requiresRestart": true,
-  "sha256": "98e27d2432e4b30d235ad5714d8ff4aed37cca1f0e684d8078da706476b6090d",
-  "sizeBytes": 1557541,
+  "sha256": "161a34669488c37311d12c1c6c2ced19944225ddc413354d3975d5b6e4368e3a",
+  "sizeBytes": 1557713,
   "tags": [],
   "version": "1.5.0"
 }
